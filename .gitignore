@@ -1,0 +1,4 @@
+.local_cache/
+__pycache__/
+jackpot_results/
+*.pyc
